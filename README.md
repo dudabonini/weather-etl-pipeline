@@ -144,9 +144,9 @@ schedule: '0 * * * *'
 
 O histórico acumulado na tabela `weather_data` alimenta um dashboard em Power BI, conectado diretamente ao PostgreSQL. O passo a passo de conexão, as medidas DAX sugeridas e os visuais recomendados estão em [`docs/powerbi_setup.md`](docs/powerbi_setup.md).
 
-Como o Power BI Desktop (`.pbix`) não é renderizável no GitHub, o dashboard é exportado como imagem/PDF e incluído aqui:
+Como o Power BI Desktop (`.pbix`) não é renderizável no GitHub, o dashboard é exportado como imagem e incluído aqui:
 
-`docs/dashboard_preview.png` *(adicionar print do dashboard finalizado)*
+![Dashboard](docs/dashboard_preview.png)
 
 ---
 
